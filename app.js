@@ -1,5 +1,5 @@
   <script type="text/javascript">
-    
+    alert('1');
     function load()
   {
          var cd=document.cookie;
